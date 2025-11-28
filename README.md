@@ -1,4 +1,4 @@
 # html-css
 curso
 
-Estou a criar sites com Html e Css!
+Estou apredendo a criar sites e agora vou gerenciar meus repositórios!
